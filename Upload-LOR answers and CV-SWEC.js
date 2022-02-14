@@ -40,7 +40,7 @@ const onFormSubmit = ({ response } = {}) => {
     }
 
     var emailBody = "New form response:\n\n";
-    emailBody += firstItemAnswer + " has submitted the documents (LOR Qs, LOM Qs, CVs). Please have a look!\n";
+    emailBody += firstItemAnswer + " has submitted the documents (LOR answers, CVs). Please have a look!\n";
     emailBody += "Link: https://tinyurl.com/Folder-for-LOR-answers-and-CV \n\n";
     emailBody += "Regards,\n";
     emailBody += "SWEC\n";
