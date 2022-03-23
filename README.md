@@ -1,5 +1,7 @@
 # SWEC-IT-Repository
 
+A collection of Google forms with features like email notifications, custom destination for uploads and renaming of uploads made using Google Apps Script made for SWEC.
+
 Folder for NDAs: 
 1minkovanfwvP950eb_hUSf9Cx84Q0WDh
 
